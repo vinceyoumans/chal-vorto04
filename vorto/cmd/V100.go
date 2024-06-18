@@ -6,8 +6,11 @@ package cmd
 import (
 	"log"
 	"os"
+	"path/filepath"
 
 	"github.com/spf13/cobra"
+	"github.com/vinceyoumans/chal-vorto04/vorto/pkg/util"
+	v100 "github.com/vinceyoumans/chal-vorto04/vorto/pkg/v100"
 )
 
 // V100Cmd represents the V100 command
@@ -29,22 +32,42 @@ Violate 12 hour rule.`,
 			return
 		}
 
-		SaveOutput, err := cmd.Flags().GetString("SaveOutput")
+		ProblemFile, err := cmd.Flags().GetString("ProblemFile")
+		if err != nil {
+			slog.Println("Error getting ProblemFile flag", err)
+			return
+		}
+
+		SaveOutput, err := cmd.Flags().GetBool("SaveOutput")
 		if err != nil {
 			slog.Println("Error getting SaveOutput flag", err)
 			return
 		}
 
-		if SaveOutput {
+		if SaveOutput == true {
 			util.MakeOutputDirs()
 		}
+
+		ProblemPathFile := filepath.Join(ProblemPath, ProblemFile)
+		slog.Println("--- ProblemPathFile : ", ProblemPathFile)
+
+		v100.V100Start(ProblemPathFile, SaveOutput)
+
+		// result := v100.V100Start(ProblemPathFile, SaveOutput)
+		// for _, valResult := range result {
+		// 	strNumbers := make([]string, len(valResult))
+		// 	for i, num := range valResult {
+		// 		strNumbers[i] = strconv.Itoa(num)
+		// 	}
+		// 	fmt.Printf("[%s]\n", strings.Join(strNumbers, ", "))
+		// }
 
 	},
 }
 
 func init() {
 	rootCmd.AddCommand(V100Cmd)
-	V100Cmd.Flags().StringP("ProblemPath", "T", "../training/Problems/problem20.txt", "select a Single Problem to work on")
-	V100Cmd.Flags().BoolP("SaveOutput", "s", true, "Save the separate stages to a JSON file for inspection")
-
+	V100Cmd.Flags().StringP("ProblemPath", "P", "../training/Problems/", "select Problem Directory")
+	V100Cmd.Flags().StringP("ProblemFile", "F", "problem20.txt", "select a Single Problem File to Calculate")
+	V100Cmd.Flags().BoolP("SaveOutput", "S", true, "Save the separate stages to a JSON file for inspection")
 }

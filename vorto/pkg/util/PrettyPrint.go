@@ -2,35 +2,37 @@ package util
 
 import (
 	"encoding/json"
-	"fmt"
+	"log"
 	"os"
 )
 
 func PPStruct(SavePath, JSONFileName string, probStruc interface{}) {
+	slog := log.New(os.Stdout, "INFO: ", log.Ltime|log.Lshortfile)
+
 	jsonOutput, err := json.MarshalIndent(probStruc, "", "  ")
 	if err != nil {
-		fmt.Println("Error marshalling JSON:", err)
+		slog.Println("Error marshalling JSON:", err)
 	}
 
 	outputDir := SavePath
 	if _, err := os.Stat(outputDir); os.IsNotExist(err) {
 		err := os.MkdirAll(outputDir, os.ModePerm)
 		if err != nil {
-			fmt.Println("Error creating output directory:", err)
+			slog.Println("Error creating output directory:", err)
 			return
 		}
 	}
 
 	fileJSON, err := os.Create(SavePath + "/" + JSONFileName)
 	if err != nil {
-		fmt.Println(err)
+		slog.Println(err)
 		// return
 	}
 	defer fileJSON.Close()
 
 	_, err = fileJSON.Write(jsonOutput)
 	if err != nil {
-		fmt.Println(err)
+		slog.Println(err)
 		// return nill
 	}
 

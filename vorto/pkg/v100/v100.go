@@ -1,7 +1,7 @@
 package v100
 
 import (
-	"github.com/vinceyoumans/chal-vorto04/pkg/util"
+	// "github.com/vinceyoumans/chal-vorto04/pkg/util"
 	v100 "github.com/vinceyoumans/chal-vorto04/vorto/pkg/V100"
 )
 

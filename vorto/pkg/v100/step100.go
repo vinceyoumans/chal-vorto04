@@ -7,10 +7,10 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/vinceyoumans/vorto04/vorto/pkg/strucs"
+	"github.com/vinceyoumans/chal-vorto04/vorto/pkg/strucs"
 )
 
-func StepV100(ProblemPathFile string) {
+func StepV100(ProblemPathFile string) []strucs.Problem100 {
 
 	slog := log.New(os.Stdout, "INFO: ", log.Ltime|log.Lshortfile)
 
@@ -31,6 +31,7 @@ func StepV100(ProblemPathFile string) {
 			Longitude: 0,
 		},
 	}
+	probStrucS = append(probStrucS, depotLocation)
 
 	file, err := os.Open(ProblemPathFile)
 	if err != nil {
@@ -42,18 +43,16 @@ func StepV100(ProblemPathFile string) {
 	scanner := bufio.NewScanner(file)
 	// Skip the header line
 	if scanner.Scan() {
-		_ = scanner.Text()
-		// header := scanner.Text()
-		// fmt.Println("Header:", header)
-		// slogpkg.LogVortoP100(header)
+		header := scanner.Text()
+		slog.Println("V100 - Header:", header)
 	}
 
 	for scanner.Scan() {
 		line := scanner.Text()
 		parts := strings.Fields(line)
 
-		parts[1] = strings.Trim(parts[1], "()")
-		parts[2] = strings.Trim(parts[2], "()")
+		// parts[1] = strings.Trim(parts[1], "()")
+		// parts[2] = strings.Trim(parts[2], "()")
 
 		if len(parts) != 3 {
 			slog.Println("*****  Invalid line format:", line)
@@ -80,4 +79,27 @@ func StepV100(ProblemPathFile string) {
 	}
 
 	return probStrucS
+}
+
+func parseLatLong(str string) strucs.LatLong {
+	slog := log.New(os.Stdout, "INFO: ", log.Ltime|log.Lshortfile)
+
+	str = strings.Trim(str, "()")
+	parts := strings.Split(str, ",")
+	if len(parts) != 2 {
+		slog.Println("Invalid LatLong format:", str)
+		return strucs.LatLong{}
+	}
+
+	latitude, err1 := strconv.ParseFloat(parts[0], 64)
+	longitude, err2 := strconv.ParseFloat(parts[1], 64)
+	if err1 != nil || err2 != nil {
+		slog.Println("Error parsing LatLong:", err1, err2)
+		return strucs.LatLong{}
+	}
+
+	return strucs.LatLong{
+		Latitude:  latitude,
+		Longitude: longitude,
+	}
 }

@@ -9,7 +9,6 @@ import (
 	"path/filepath"
 
 	"github.com/spf13/cobra"
-	utils "github.com/vinceyoumans/chal-vorto04/vorto/pkg/utils"
 	v100 "github.com/vinceyoumans/chal-vorto04/vorto/pkg/v100"
 )
 
@@ -44,9 +43,9 @@ Violate 12 hour rule.`,
 			return
 		}
 
-		if SaveOutput {
-			utils.MakeOutputDirs()
-		}
+		// if SaveOutput {
+		// 	utils.MakeOutputDirs()
+		// }
 
 		ProblemPathFile := filepath.Join(ProblemPath, ProblemFile)
 

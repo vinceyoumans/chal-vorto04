@@ -38,7 +38,7 @@ func StepV100(ProblemPathFile string) strucs.Problems100S {
 	// Theory is that Array Item 1 is Load also route 1
 	var probStrucS []strucs.Problem100
 	depotLocation := strucs.Problem100{
-		LoadNumber: 0,
+		LoadID: 0,
 		Pickup: strucs.LatLong{
 			Latitude:  0,
 			Longitude: 0,
@@ -85,10 +85,10 @@ func StepV100(ProblemPathFile string) strucs.Problems100S {
 		dropoff := parseLatLong(parts[2])
 
 		probStruc := strucs.Problem100{
-			LoadNumber: loadNumber,
-			Pickup:     pickup,
-			DropOff:    dropoff,
-			BPickedUp:  false,
+			LoadID:    loadNumber,
+			Pickup:    pickup,
+			DropOff:   dropoff,
+			BPickedUp: false,
 		}
 
 		probStrucS = append(probStrucS, probStruc)

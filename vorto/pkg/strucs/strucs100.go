@@ -11,10 +11,10 @@ type Problems100S struct {
 
 // --------------------------------
 type Problem100 struct {
-	LoadNumber int
-	Pickup     LatLong
-	DropOff    LatLong
-	BPickedUp  bool // If a Load has been picked up in previous Route
+	LoadID    int
+	Pickup    LatLong
+	DropOff   LatLong
+	BPickedUp bool // If a Load has been picked up in previous Route
 }
 type LatLong struct {
 	Latitude  float64
@@ -42,11 +42,14 @@ func (p Problems100S) GetSortOfRemainingLoadsByID() []LOADS {
 
 	P1 := Depot() // Assume starting point is Depot
 
-	for i, prob := range p.Problems {
+	for i := 0; i <= len(p.Problems)-1; i++ {
+		prob := p.Problems[i]
+		// Check if Load has been picked up in previous Route
 		if prob.BPickedUp {
 			// skip this Load
 			continue
 		}
+
 		tLoad.LoadID = i
 		tLoad.Distance_P1toP2 = DistanceTo(P1, prob.Pickup)
 		tLoad.Distance_P2toP3 = DistanceTo(prob.Pickup, prob.DropOff)
@@ -58,10 +61,12 @@ func (p Problems100S) GetSortOfRemainingLoadsByID() []LOADS {
 		P1 = prob.DropOff // update P1 to the next DropOff
 	}
 
+	// fmt.Println("==== len(PMapLoads)", len(PMapLoads))
 	var sLoad []LOADS
-	for i := 0; i < len(PMapLoads)-1; i++ {
+	for i := 0; i <= len(PMapLoads)-1; i++ {
 		sLoad = append(sLoad, PMapLoads[i])
 	}
+	// fmt.Println("==== len(sLoad)", len(sLoad))
 
 	return sLoad
 

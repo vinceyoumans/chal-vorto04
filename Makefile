@@ -48,7 +48,7 @@ build:
 # Run target
 .PHONY: run
 run:
-	$(GO_CMD) run $(SRC_FILE) v100 -T ./training/Problems/problem20.txt
+	$(GO_CMD) run $(SRC_FILE) V100 -F ./training/Problems/problem20.txt
 
 # Clean target
 .PHONY: clean

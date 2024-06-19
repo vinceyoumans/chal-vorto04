@@ -4,6 +4,7 @@ import (
 	"fmt"
 	"image/color"
 	"log"
+	"os"
 
 	"github.com/signintech/gopdf"
 	"github.com/vinceyoumans/chal-vorto04/vorto/pkg/strucs"
@@ -26,6 +27,33 @@ import (
 // }
 
 func Print_PNG_PDF_ByLoad(data []strucs.S230Load, FileDir, FileName string) {
+
+	// Ensure the directory exists
+	if err := os.MkdirAll(FileDir, 0755); err != nil {
+		// slog.Fatalf("Failed to create directory: %v", err)
+	}
+
+	// filePDF, _ := os.Create("../output/graphic/" + FileDir + "/" + FileName + "pdf")
+	// filePNG, _ := os.Create("../output/graphic/" + FileDir + "/" + FileName + "png")
+	filePDF, _ := os.Create(FileDir + "/" + FileName + ".pdf")
+	filePNG, _ := os.Create(FileDir + "/" + FileName + ".png")
+
+	// if err != nil {
+	// 	// slog.Println(err)
+	// 	// return
+	// }
+	// defer filePDF.Close()
+	// defer filePNG.Close()
+	filePDF.Close()
+	filePNG.Close()
+
+	ffilePDF := FileDir + "/" + FileName + ".pdf"
+	ffilePNG := FileDir + "/" + FileName + ".png"
+
+	// I want to create a dir and file at FileDir + FileName
+	if _, err := os.Stat(FileDir); os.IsNotExist(err) {
+		os.Mkdir(FileDir, 0755)
+	}
 
 	// Data
 	// data := []S230Load{
@@ -80,7 +108,10 @@ func Print_PNG_PDF_ByLoad(data []strucs.S230Load, FileDir, FileName string) {
 	}
 
 	// Save plot to PNG
-	err = p.Save(6*vg.Inch, 6*vg.Inch, "plot.png")
+	// pngFilePath := filepath.Join(FileDir, FileName+".png")
+
+	// err = p.Save(6*vg.Inch, 6*vg.Inch, "plot.png")
+	err = p.Save(6*vg.Inch, 6*vg.Inch, ffilePNG)
 	if err != nil {
 		log.Fatalf("could not save plot: %v", err)
 	}
@@ -89,18 +120,22 @@ func Print_PNG_PDF_ByLoad(data []strucs.S230Load, FileDir, FileName string) {
 	pdf := gopdf.GoPdf{}
 	pdf.Start(gopdf.Config{PageSize: *gopdf.PageSizeA4})
 	pdf.AddPage()
-	err = pdf.Image("plot.png", 10, 10, nil)
+	// err = pdf.Image("plot.png", 10, 10, nil)
+	err = pdf.Image(ffilePNG, 10, 10, nil)
 	if err != nil {
 		log.Fatalf("could not add image to PDF: %v", err)
 	}
 
 	// Save PDF
-	err = pdf.WritePdf("output.pdf")
+	// pdfFilePath := filepath.Join(FileDir, FileName+".pdf")
+
+	// err = pdf.WritePdf("output.pdf")
+	err = pdf.WritePdf(ffilePDF)
 	if err != nil {
 		log.Fatalf("could not save PDF: %v", err)
 	}
 
-	log.Println("PDF created successfully.")
+	// log.Println("PDF created successfully.")
 }
 
 func TestPDF200() {

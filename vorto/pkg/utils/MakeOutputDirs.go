@@ -7,16 +7,16 @@ import (
 
 // MakeOutputDirs - makes output directories
 func MakeOutputDirs() {
-	outputDir := "./output"
+	outputDir := "../output"
 	MakeDir(outputDir)
 
-	outputDir = "./output/ret"
+	outputDir = "../output/ret"
 	MakeDir(outputDir)
 
-	outputDir = "./output/slog"
+	outputDir = "../output/slog"
 	MakeDir(outputDir)
 
-	outputDir = "./output/strucs"
+	outputDir = "../output/strucs"
 	MakeDir(outputDir)
 }
 

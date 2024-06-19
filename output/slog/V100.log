@@ -1,140 +1,16 @@
-INFO: 05:51:25 step100.go:34: v100 - step100
-INFO: 05:51:25 step100.go:64: V100 - Header: loadNumber pickup dropoff
-INFO: 06:04:10 step100.go:34: v100 - step100
-INFO: 06:04:10 step100.go:64: V100 - Header: loadNumber pickup dropoff
-INFO: 06:09:35 step100.go:34: v100 - step100
-INFO: 06:09:35 step100.go:64: V100 - Header: loadNumber pickup dropoff
-INFO: 06:13:24 step100.go:34: v100 - step100
-INFO: 06:13:24 step100.go:64: V100 - Header: loadNumber pickup dropoff
-INFO: 06:13:49 step100.go:34: v100 - step100
-INFO: 06:13:49 step100.go:64: V100 - Header: loadNumber pickup dropoff
-INFO: 06:14:19 step100.go:34: v100 - step100
-INFO: 06:14:19 step100.go:64: V100 - Header: loadNumber pickup dropoff
-INFO: 06:17:49 step100.go:34: v100 - step100
-INFO: 06:17:49 step100.go:64: V100 - Header: loadNumber pickup dropoff
-INFO: 06:19:21 step100.go:34: v100 - step100
-INFO: 06:19:21 step100.go:64: V100 - Header: loadNumber pickup dropoff
-INFO: 06:25:39 step100.go:34: v100 - step100
-INFO: 06:25:39 step100.go:64: V100 - Header: loadNumber pickup dropoff
-INFO: 06:28:40 step100.go:34: v100 - step100
-INFO: 06:28:40 step100.go:64: V100 - Header: loadNumber pickup dropoff
-INFO: 06:32:02 step100.go:34: v100 - step100
-INFO: 06:32:02 step100.go:64: V100 - Header: loadNumber pickup dropoff
-INFO: 07:12:41 step100.go:34: v100 - step100
-INFO: 07:12:41 step100.go:64: V100 - Header: loadNumber pickup dropoff
-INFO: 07:16:02 step100.go:34: v100 - step100
-INFO: 07:16:02 step100.go:64: V100 - Header: loadNumber pickup dropoff
-INFO: 07:16:40 step100.go:34: v100 - step100
-INFO: 07:16:40 step100.go:64: V100 - Header: loadNumber pickup dropoff
-INFO: 07:17:14 step100.go:34: v100 - step100
-INFO: 07:17:14 step100.go:64: V100 - Header: loadNumber pickup dropoff
-INFO: 07:18:21 step100.go:34: v100 - step100
-INFO: 07:18:21 step100.go:64: V100 - Header: loadNumber pickup dropoff
-INFO: 07:26:14 step100.go:34: v100 - step100
-INFO: 07:26:14 step100.go:64: V100 - Header: loadNumber pickup dropoff
-INFO: 07:34:48 step100.go:34: v100 - step100
-INFO: 07:34:48 step100.go:64: V100 - Header: loadNumber pickup dropoff
-INFO: 07:46:38 step100.go:34: v100 - step100
-INFO: 07:46:38 step100.go:64: V100 - Header: loadNumber pickup dropoff
-INFO: 07:46:53 step100.go:34: v100 - step100
-INFO: 07:46:53 step100.go:64: V100 - Header: loadNumber pickup dropoff
-INFO: 07:47:41 step100.go:34: v100 - step100
-INFO: 07:47:41 step100.go:64: V100 - Header: loadNumber pickup dropoff
-INFO: 07:48:11 step100.go:34: v100 - step100
-INFO: 07:48:11 step100.go:64: V100 - Header: loadNumber pickup dropoff
-INFO: 07:48:41 step100.go:34: v100 - step100
-INFO: 07:48:41 step100.go:64: V100 - Header: loadNumber pickup dropoff
-INFO: 07:48:59 step100.go:34: v100 - step100
-INFO: 07:48:59 step100.go:64: V100 - Header: loadNumber pickup dropoff
-INFO: 07:49:38 step100.go:34: v100 - step100
-INFO: 07:49:38 step100.go:64: V100 - Header: loadNumber pickup dropoff
-INFO: 07:49:52 step100.go:34: v100 - step100
-INFO: 07:49:52 step100.go:64: V100 - Header: loadNumber pickup dropoff
-INFO: 07:51:11 step100.go:34: v100 - step100
-INFO: 07:51:11 step100.go:64: V100 - Header: loadNumber pickup dropoff
-INFO: 07:53:26 step100.go:34: v100 - step100
-INFO: 07:53:26 step100.go:64: V100 - Header: loadNumber pickup dropoff
-INFO: 07:55:42 step100.go:34: v100 - step100
-INFO: 07:55:42 step100.go:64: V100 - Header: loadNumber pickup dropoff
-INFO: 07:56:29 step100.go:34: v100 - step100
-INFO: 07:56:29 step100.go:64: V100 - Header: loadNumber pickup dropoff
-INFO: 07:58:42 step100.go:34: v100 - step100
-INFO: 07:58:42 step100.go:64: V100 - Header: loadNumber pickup dropoff
-INFO: 08:00:14 step100.go:34: v100 - step100
-INFO: 08:00:14 step100.go:64: V100 - Header: loadNumber pickup dropoff
-INFO: 08:03:14 step100.go:34: v100 - step100
-INFO: 08:03:14 step100.go:64: V100 - Header: loadNumber pickup dropoff
-INFO: 08:03:56 step100.go:34: v100 - step100
-INFO: 08:03:56 step100.go:64: V100 - Header: loadNumber pickup dropoff
-INFO: 08:05:21 step100.go:34: v100 - step100
-INFO: 08:05:21 step100.go:64: V100 - Header: loadNumber pickup dropoff
-INFO: 08:08:13 step100.go:34: v100 - step100
-INFO: 08:08:13 step100.go:64: V100 - Header: loadNumber pickup dropoff
-INFO: 08:10:16 step100.go:34: v100 - step100
-INFO: 08:10:16 step100.go:64: V100 - Header: loadNumber pickup dropoff
-INFO: 08:22:18 step100.go:34: v100 - step100
-INFO: 08:22:18 step100.go:64: V100 - Header: loadNumber pickup dropoff
-INFO: 08:22:39 step100.go:34: v100 - step100
-INFO: 08:22:39 step100.go:64: V100 - Header: loadNumber pickup dropoff
-INFO: 09:12:39 step100.go:34: v100 - step100
-INFO: 09:12:39 step100.go:64: V100 - Header: loadNumber pickup dropoff
-INFO: 09:14:41 step100.go:34: v100 - step100
-INFO: 09:14:41 step100.go:64: V100 - Header: loadNumber pickup dropoff
-INFO: 09:16:16 step100.go:34: v100 - step100
-INFO: 09:16:16 step100.go:64: V100 - Header: loadNumber pickup dropoff
-INFO: 09:16:53 step100.go:34: v100 - step100
-INFO: 09:16:53 step100.go:64: V100 - Header: loadNumber pickup dropoff
-INFO: 09:21:10 step100.go:34: v100 - step100
-INFO: 09:21:10 step100.go:64: V100 - Header: loadNumber pickup dropoff
-INFO: 09:22:21 step100.go:34: v100 - step100
-INFO: 09:22:21 step100.go:64: V100 - Header: loadNumber pickup dropoff
-INFO: 09:25:25 step100.go:34: v100 - step100
-INFO: 09:25:25 step100.go:64: V100 - Header: loadNumber pickup dropoff
-INFO: 09:30:15 step100.go:34: v100 - step100
-INFO: 09:30:15 step100.go:64: V100 - Header: loadNumber pickup dropoff
-INFO: 09:31:27 step100.go:34: v100 - step100
-INFO: 09:31:27 step100.go:64: V100 - Header: loadNumber pickup dropoff
-INFO: 09:36:12 step100.go:34: v100 - step100
-INFO: 09:36:12 step100.go:64: V100 - Header: loadNumber pickup dropoff
-INFO: 09:39:27 step100.go:34: v100 - step100
-INFO: 09:39:27 step100.go:64: V100 - Header: loadNumber pickup dropoff
-INFO: 09:44:04 step100.go:34: v100 - step100
-INFO: 09:44:04 step100.go:64: V100 - Header: loadNumber pickup dropoff
-INFO: 09:45:55 step100.go:34: v100 - step100
-INFO: 09:45:55 step100.go:64: V100 - Header: loadNumber pickup dropoff
-INFO: 09:46:40 step100.go:34: v100 - step100
-INFO: 09:46:40 step100.go:64: V100 - Header: loadNumber pickup dropoff
-INFO: 09:52:02 step100.go:34: v100 - step100
-INFO: 09:52:02 step100.go:64: V100 - Header: loadNumber pickup dropoff
-INFO: 09:54:38 step100.go:34: v100 - step100
-INFO: 09:54:38 step100.go:64: V100 - Header: loadNumber pickup dropoff
-INFO: 09:57:59 step100.go:34: v100 - step100
-INFO: 09:57:59 step100.go:64: V100 - Header: loadNumber pickup dropoff
-INFO: 09:58:49 step100.go:34: v100 - step100
-INFO: 09:58:49 step100.go:64: V100 - Header: loadNumber pickup dropoff
-INFO: 09:59:34 step100.go:34: v100 - step100
-INFO: 09:59:34 step100.go:64: V100 - Header: loadNumber pickup dropoff
-INFO: 10:01:22 step100.go:34: v100 - step100
-INFO: 10:01:22 step100.go:64: V100 - Header: loadNumber pickup dropoff
-INFO: 10:16:58 step100.go:34: v100 - step100
-INFO: 10:16:58 step100.go:64: V100 - Header: loadNumber pickup dropoff
-INFO: 10:18:22 step100.go:34: v100 - step100
-INFO: 10:18:22 step100.go:64: V100 - Header: loadNumber pickup dropoff
-INFO: 10:20:25 step100.go:34: v100 - step100
-INFO: 10:20:25 step100.go:64: V100 - Header: loadNumber pickup dropoff
-INFO: 10:22:42 step100.go:34: v100 - step100
-INFO: 10:22:42 step100.go:64: V100 - Header: loadNumber pickup dropoff
-INFO: 10:23:14 step100.go:34: v100 - step100
-INFO: 10:23:14 step100.go:64: V100 - Header: loadNumber pickup dropoff
-INFO: 10:27:51 step100.go:34: v100 - step100
-INFO: 10:27:51 step100.go:64: V100 - Header: loadNumber pickup dropoff
-INFO: 10:30:54 step100.go:34: v100 - step100
-INFO: 10:30:54 step100.go:64: V100 - Header: loadNumber pickup dropoff
-INFO: 10:31:59 step100.go:34: v100 - step100
-INFO: 10:31:59 step100.go:64: V100 - Header: loadNumber pickup dropoff
-INFO: 10:38:50 step100.go:34: v100 - step100
-INFO: 10:38:50 step100.go:64: V100 - Header: loadNumber pickup dropoff
-INFO: 11:34:02 step100.go:34: v100 - step100
-INFO: 11:34:02 step100.go:64: V100 - Header: loadNumber pickup dropoff
-INFO: 11:46:25 step100.go:34: v100 - step100
-INFO: 11:46:25 step100.go:64: V100 - Header: loadNumber pickup dropoff
+INFO: 16:08:59 step100.go:34: v100 - step100
+INFO: 16:08:59 step100.go:64: V100 - Header: loadNumber pickup dropoff
+INFO: 16:11:13 step100.go:34: v100 - step100
+INFO: 16:11:13 step100.go:64: V100 - Header: loadNumber pickup dropoff
+INFO: 16:13:17 step100.go:34: v100 - step100
+INFO: 16:13:17 step100.go:64: V100 - Header: loadNumber pickup dropoff
+INFO: 16:20:55 step100.go:34: v100 - step100
+INFO: 16:20:55 step100.go:64: V100 - Header: loadNumber pickup dropoff
+INFO: 16:21:45 step100.go:34: v100 - step100
+INFO: 16:21:45 step100.go:64: V100 - Header: loadNumber pickup dropoff
+INFO: 16:24:39 step100.go:34: v100 - step100
+INFO: 16:24:39 step100.go:64: V100 - Header: loadNumber pickup dropoff
+INFO: 16:26:31 step100.go:34: v100 - step100
+INFO: 16:26:31 step100.go:64: V100 - Header: loadNumber pickup dropoff
+INFO: 16:26:51 step100.go:34: v100 - step100
+INFO: 16:26:51 step100.go:64: V100 - Header: loadNumber pickup dropoff

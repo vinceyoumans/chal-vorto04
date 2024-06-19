@@ -5,3 +5,8 @@ type RTS900 struct {
 	LoadIDS      []int
 	CountOfLoads int
 }
+
+type RTS900SS struct {
+	TotalLoadIDs int
+	Routes       []RTS900
+}

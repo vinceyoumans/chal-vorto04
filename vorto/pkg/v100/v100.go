@@ -66,10 +66,17 @@ func V100Start(ProblemPathFile string, bSaveOutput bool) {
 		util.PPStruct("../output/v500/p500", "PP500_ByPickUp.json", PM500)
 	}
 
-	PM900 := StXX900(P200B_ByPickUp)
+	// fmt.Println("============== StXX900")
+
+	// PM900XX := StX900XX(PP230B_ByPickUp)
+
+	// PM900X := Stxxx900(PP230B_ByPickUp)
 
 	if bSaveOutput {
-		util.PPStruct("../output/v900/p900", "PP900_random.json", PM900)
+		util.PPStruct("../output/v900/p900XX", "PP900XX_random.json", PM900X)
 	}
+
+	// print out return
+	RR900(PM900X)
 
 }

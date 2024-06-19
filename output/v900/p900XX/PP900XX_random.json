@@ -1,0 +1,445 @@
+{
+  "TotalLoadIDs": 200,
+  "Routes": [
+    {
+      "RouteID": 1,
+      "LoadIDS": [
+        0,
+        169,
+        78,
+        43,
+        92
+      ],
+      "CountOfLoads": 5
+    },
+    {
+      "RouteID": 2,
+      "LoadIDS": [
+        58,
+        82,
+        190,
+        42,
+        178
+      ],
+      "CountOfLoads": 5
+    },
+    {
+      "RouteID": 3,
+      "LoadIDS": [
+        46,
+        70,
+        79,
+        179,
+        9
+      ],
+      "CountOfLoads": 5
+    },
+    {
+      "RouteID": 4,
+      "LoadIDS": [
+        125,
+        23,
+        67,
+        197,
+        73
+      ],
+      "CountOfLoads": 5
+    },
+    {
+      "RouteID": 5,
+      "LoadIDS": [
+        142,
+        172,
+        188,
+        180,
+        47
+      ],
+      "CountOfLoads": 5
+    },
+    {
+      "RouteID": 6,
+      "LoadIDS": [
+        152,
+        110,
+        6,
+        27,
+        31
+      ],
+      "CountOfLoads": 5
+    },
+    {
+      "RouteID": 7,
+      "LoadIDS": [
+        134,
+        51,
+        21,
+        164,
+        132
+      ],
+      "CountOfLoads": 5
+    },
+    {
+      "RouteID": 8,
+      "LoadIDS": [
+        60,
+        71,
+        114,
+        126,
+        182
+      ],
+      "CountOfLoads": 5
+    },
+    {
+      "RouteID": 9,
+      "LoadIDS": [
+        10,
+        116,
+        155,
+        33,
+        170
+      ],
+      "CountOfLoads": 5
+    },
+    {
+      "RouteID": 10,
+      "LoadIDS": [
+        168,
+        19,
+        159,
+        187,
+        149
+      ],
+      "CountOfLoads": 5
+    },
+    {
+      "RouteID": 11,
+      "LoadIDS": [
+        128,
+        56,
+        198,
+        77,
+        186
+      ],
+      "CountOfLoads": 5
+    },
+    {
+      "RouteID": 12,
+      "LoadIDS": [
+        81,
+        74,
+        97,
+        65,
+        147
+      ],
+      "CountOfLoads": 5
+    },
+    {
+      "RouteID": 13,
+      "LoadIDS": [
+        99,
+        123,
+        111,
+        38,
+        30
+      ],
+      "CountOfLoads": 5
+    },
+    {
+      "RouteID": 14,
+      "LoadIDS": [
+        2,
+        50,
+        4,
+        80,
+        89
+      ],
+      "CountOfLoads": 5
+    },
+    {
+      "RouteID": 15,
+      "LoadIDS": [
+        112,
+        64,
+        191,
+        11,
+        63
+      ],
+      "CountOfLoads": 5
+    },
+    {
+      "RouteID": 16,
+      "LoadIDS": [
+        68,
+        88,
+        94,
+        108,
+        39
+      ],
+      "CountOfLoads": 5
+    },
+    {
+      "RouteID": 17,
+      "LoadIDS": [
+        107,
+        44,
+        84,
+        120,
+        199
+      ],
+      "CountOfLoads": 5
+    },
+    {
+      "RouteID": 18,
+      "LoadIDS": [
+        176,
+        151,
+        161,
+        148,
+        5
+      ],
+      "CountOfLoads": 5
+    },
+    {
+      "RouteID": 19,
+      "LoadIDS": [
+        98,
+        7,
+        52,
+        91,
+        158
+      ],
+      "CountOfLoads": 5
+    },
+    {
+      "RouteID": 20,
+      "LoadIDS": [
+        194,
+        22,
+        17,
+        90,
+        14
+      ],
+      "CountOfLoads": 5
+    },
+    {
+      "RouteID": 21,
+      "LoadIDS": [
+        25,
+        153,
+        26,
+        174,
+        32
+      ],
+      "CountOfLoads": 5
+    },
+    {
+      "RouteID": 22,
+      "LoadIDS": [
+        173,
+        40,
+        195,
+        113,
+        55
+      ],
+      "CountOfLoads": 5
+    },
+    {
+      "RouteID": 23,
+      "LoadIDS": [
+        57,
+        131,
+        12,
+        59,
+        145
+      ],
+      "CountOfLoads": 5
+    },
+    {
+      "RouteID": 24,
+      "LoadIDS": [
+        138,
+        118,
+        83,
+        100,
+        54
+      ],
+      "CountOfLoads": 5
+    },
+    {
+      "RouteID": 25,
+      "LoadIDS": [
+        28,
+        1,
+        16,
+        103,
+        3
+      ],
+      "CountOfLoads": 5
+    },
+    {
+      "RouteID": 26,
+      "LoadIDS": [
+        109,
+        189,
+        137,
+        160,
+        171
+      ],
+      "CountOfLoads": 5
+    },
+    {
+      "RouteID": 27,
+      "LoadIDS": [
+        34,
+        166,
+        163,
+        119,
+        143
+      ],
+      "CountOfLoads": 5
+    },
+    {
+      "RouteID": 28,
+      "LoadIDS": [
+        156,
+        53,
+        154,
+        41,
+        45
+      ],
+      "CountOfLoads": 5
+    },
+    {
+      "RouteID": 29,
+      "LoadIDS": [
+        95,
+        72,
+        104,
+        139,
+        13
+      ],
+      "CountOfLoads": 5
+    },
+    {
+      "RouteID": 30,
+      "LoadIDS": [
+        136,
+        135,
+        29,
+        8,
+        36
+      ],
+      "CountOfLoads": 5
+    },
+    {
+      "RouteID": 31,
+      "LoadIDS": [
+        146,
+        200,
+        124,
+        115,
+        141
+      ],
+      "CountOfLoads": 5
+    },
+    {
+      "RouteID": 32,
+      "LoadIDS": [
+        18,
+        133,
+        117,
+        177,
+        87
+      ],
+      "CountOfLoads": 5
+    },
+    {
+      "RouteID": 33,
+      "LoadIDS": [
+        35,
+        69,
+        144,
+        48,
+        76
+      ],
+      "CountOfLoads": 5
+    },
+    {
+      "RouteID": 34,
+      "LoadIDS": [
+        122,
+        37,
+        105,
+        150,
+        93
+      ],
+      "CountOfLoads": 5
+    },
+    {
+      "RouteID": 35,
+      "LoadIDS": [
+        175,
+        184,
+        140,
+        165,
+        96
+      ],
+      "CountOfLoads": 5
+    },
+    {
+      "RouteID": 36,
+      "LoadIDS": [
+        62,
+        181,
+        49,
+        127,
+        15
+      ],
+      "CountOfLoads": 5
+    },
+    {
+      "RouteID": 37,
+      "LoadIDS": [
+        193,
+        24,
+        157,
+        121,
+        192
+      ],
+      "CountOfLoads": 5
+    },
+    {
+      "RouteID": 38,
+      "LoadIDS": [
+        162,
+        20,
+        196,
+        130,
+        183
+      ],
+      "CountOfLoads": 5
+    },
+    {
+      "RouteID": 39,
+      "LoadIDS": [
+        102,
+        129,
+        66,
+        86,
+        85
+      ],
+      "CountOfLoads": 5
+    },
+    {
+      "RouteID": 40,
+      "LoadIDS": [
+        101,
+        185,
+        167,
+        61,
+        75
+      ],
+      "CountOfLoads": 5
+    }
+  ]
+}

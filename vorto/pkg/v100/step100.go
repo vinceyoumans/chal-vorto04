@@ -11,7 +11,7 @@ import (
 	"github.com/vinceyoumans/chal-vorto04/vorto/pkg/strucs"
 )
 
-func StepV100(ProblemPathFile string) strucs.Problems100S {
+func StV100(ProblemPathFile string) strucs.Problems100S {
 	// Define the log file path
 	logFilePath := "../output/slog/V100.log"
 

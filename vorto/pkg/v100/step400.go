@@ -6,7 +6,7 @@ import (
 	"github.com/vinceyoumans/chal-vorto04/vorto/pkg/strucs"
 )
 
-func StepV400(pm300S []strucs.PMap300_ROUTE) []strucs.Route400S {
+func StV400(pm300S []strucs.PMap300_ROUTE) []strucs.Route400S {
 	const max_Driving_Time = 12 * 60
 	// const max_Driving_Time = 12 * 60 * 60
 	var RouteS []strucs.Route400S

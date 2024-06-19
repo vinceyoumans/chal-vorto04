@@ -5,7 +5,7 @@ import (
 	"github.com/vinceyoumans/chal-vorto04/vorto/pkg/utils"
 )
 
-func SStepV200(prob100S strucs.Problems100S) ([]strucs.LOADS, []strucs.LOADS, []strucs.LOADS) {
+func SStV200(prob100S strucs.Problems100S) ([]strucs.LOADS, []strucs.LOADS, []strucs.LOADS) {
 	aLoadsByID := prob100S.GetSortOfRemainingLoadsByID()
 	aLoadsByPickUpSort := prob100S.GetSortOfRemainingLoadsByClosestPickup()
 	aLoadsByDropOffSort := prob100S.GetSortOfRemainingLoadsByClosestDropOff()
@@ -25,7 +25,7 @@ func SStepV200(prob100S strucs.Problems100S) ([]strucs.LOADS, []strucs.LOADS, []
 	return aaLoadsByID, aaLoadsByPickUpSort, aaLoadsByDropOffSort
 }
 
-func SStepV230(P200 []strucs.LOADS, P100S strucs.Problems100S) []strucs.RemainingLoads230 {
+func SStV230(P200 []strucs.LOADS, P100S strucs.Problems100S) []strucs.RemainingLoads230 {
 
 	var tempRL230 strucs.RemainingLoads230
 	var tempRL230S []strucs.RemainingLoads230
@@ -41,7 +41,7 @@ func SStepV230(P200 []strucs.LOADS, P100S strucs.Problems100S) []strucs.Remainin
 	return tempRL230S
 }
 
-func SStepV230_Print_PNG_PDF_ByLoad(ls []strucs.RemainingLoads230, GraphDir, FileName string) {
+func SStV230_Print_PNG_PDF_ByLoad(ls []strucs.RemainingLoads230, GraphDir, FileName string) {
 	var tLoads []strucs.S230Load
 	var tload strucs.S230Load
 	for _, v := range ls {

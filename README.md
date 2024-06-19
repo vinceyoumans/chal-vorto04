@@ -9,6 +9,13 @@ develope system that will compute lowest cost Routes from a Collection of LOADs.
 
 ## Logic
 
+### Graphics
+Observe ./output/graphic/v230
+I was not sure about distribution of tags.
+
+
+
+
 
 ### 12HR
 No driver is permitted to drive beyond the 12 hours

@@ -4,7 +4,7 @@ import (
 	"github.com/vinceyoumans/chal-vorto04/vorto/pkg/strucs"
 )
 
-func StepV500(S400 []strucs.Route400S) []strucs.RTS500 {
+func StV500(S400 []strucs.Route400S) []strucs.RTS500 {
 
 	var tRTS500 strucs.RTS500
 	var tRTS500S []strucs.RTS500

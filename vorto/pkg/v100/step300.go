@@ -4,7 +4,7 @@ import (
 	"github.com/vinceyoumans/chal-vorto04/vorto/pkg/strucs"
 )
 
-func StepV300(SRL230 []strucs.RemainingLoads230, pm100 []strucs.Problem100) []strucs.PMap300_ROUTE {
+func StV300(SRL230 []strucs.RemainingLoads230, pm100 []strucs.Problem100) []strucs.PMap300_ROUTE {
 
 	var PMap300_ROUTES []strucs.PMap300_ROUTE
 	var PMap300_ROUTE strucs.PMap300_ROUTE

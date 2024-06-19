@@ -1,7 +1,7 @@
 package v100
 
 import (
-	util "github.com/vinceyoumans/chal-vorto04/vorto/pkg/util"
+	util "github.com/vinceyoumans/chal-vorto04/vorto/pkg/utils"
 )
 
 func V100Start(ProblemPathFile string, bSaveOutput bool) {

@@ -1,8 +1,6 @@
 package v100
 
 import (
-	"fmt"
-
 	"github.com/vinceyoumans/chal-vorto04/vorto/pkg/strucs"
 )
 
@@ -20,15 +18,15 @@ func StV400(pm300S []strucs.PMap300_ROUTE) []strucs.Route400S {
 	leg := 1
 
 	for i, v := range pm300S {
-		fmt.Println("--- i", i)
-		fmt.Println("--- v", v)
+		// fmt.Println("--- i", i)
+		// fmt.Println("--- v", v)
 		CurrentRouteRunningTimePlusP1PDepot = CurrentRouteRunningTime + v.Distance_P1P2 + v.Distance_P2P3 + v.Next_P1PDepot
 		if CurrentRouteRunningTimePlusP1PDepot > max_Driving_Time {
 			// Return to Depot
 			// The next Load would violate 12HR
-			fmt.Println("12HR --- i", i)
-			fmt.Println("--- v", v)
-			fmt.Println("CurrentRouteRunningTime", CurrentRouteRunningTime)
+			// fmt.Println("12HR --- i", i)
+			// fmt.Println("--- v", v)
+			// fmt.Println("CurrentRouteRunningTime", CurrentRouteRunningTime)
 
 			Route.RouteID = RouteID
 			Route.RunningDistance = CurrentRouteRunningTime
@@ -38,10 +36,10 @@ func StV400(pm300S []strucs.PMap300_ROUTE) []strucs.Route400S {
 			RouteID++
 
 		} else {
-			fmt.Println("--- i", i)
-			fmt.Println("--- v", v)
-			fmt.Println("CurrentRouteRunningTime", CurrentRouteRunningTime)
-			fmt.Println("CurrentRouteRunningTimePlusP1PDepot", CurrentRouteRunningTimePlusP1PDepot)
+			// fmt.Println("--- i", i)
+			// fmt.Println("--- v", v)
+			// fmt.Println("CurrentRouteRunningTime", CurrentRouteRunningTime)
+			// fmt.Println("CurrentRouteRunningTimePlusP1PDepot", CurrentRouteRunningTimePlusP1PDepot)
 			RR.I = i
 			RR.Leg = leg
 			RR.LoadID = v.Current_LoadID

@@ -1,6 +1,11 @@
 package v100
 
 import (
+	"fmt"
+	"strconv"
+	"strings"
+
+	"github.com/vinceyoumans/chal-vorto04/vorto/pkg/strucs"
 	util "github.com/vinceyoumans/chal-vorto04/vorto/pkg/utils"
 )
 
@@ -71,12 +76,36 @@ func V100Start(ProblemPathFile string, bSaveOutput bool) {
 	// PM900XX := StX900XX(PP230B_ByPickUp)
 
 	// PM900X := Stxxx900(PP230B_ByPickUp)
-
+	PM900X := Stxxx900(PP230B_ByPickUp)
 	if bSaveOutput {
 		util.PPStruct("../output/v900/p900XX", "PP900XX_random.json", PM900X)
 	}
 
 	// print out return
 	RR900(PM900X)
+
+}
+
+func Graph900(PM900X strucs.RTS900SS, P200A_ByID []strucs.LOADS) {
+	panic("unimplemented")
+}
+
+func RR900(PM900X strucs.RTS900SS) {
+	RR := PM900X.Routes
+
+	for _, v := range RR {
+
+		strSlice := make([]string, len(v.LoadIDS))
+		for i, num := range v.LoadIDS {
+			strSlice[i] = strconv.Itoa(num)
+		}
+
+		// Join the slice of strings with commas
+		result := "[" + strings.Join(strSlice, ",") + "]"
+
+		// Print the result
+		fmt.Println(result)
+
+	}
 
 }

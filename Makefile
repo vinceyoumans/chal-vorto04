@@ -2,7 +2,7 @@
 
 # Variables
 GO_CMD = go
-SRC_FILE = vorto/main.go
+SRC_FILE = ./vorto/main.go
 TARGET = vorto
 BIN_DIR = ./bin
 TEST301 = "./training/Problems/problem1.txt"
@@ -24,7 +24,7 @@ TEST316 = "./training/Problems/problem16.txt"
 TEST317 = "./training/Problems/problem17.txt"
 TEST318 = "./training/Problems/problem18.txt"
 TEST319 = "./training/Problems/problem19.txt"
-TEST320 = "./training/Problems/problem20.txt"
+TEST320 = "../training/Problems/problem20.txt"
 
 
 
@@ -48,7 +48,7 @@ build:
 # Run target
 .PHONY: run
 run:
-	$(GO_CMD) run $(SRC_FILE) V100 -F ./training/Problems/problem20.txt
+	$cd ./vorto && $(GO_CMD) run $(SRC_FILE) V100 -F ../training/Problems/problem20.txt
 
 # Clean target
 .PHONY: clean

@@ -1,5 +1,13 @@
 # VORTO CHALLENGE
 
+I did not like my original version of the vorto challenge.
+So I started from scratch last night.
+In the end, I cheated, just to get the Output to pass the Python code.
+
+In my study of the data, I created graphics to get visuals.
+
+
+
 
 Based on [this Google Drive folder](https://drive.google.com/drive/folders/1Jb7FmR5Ftrg0jwgIJ-n_oKwOjyJ4gDHI)
 

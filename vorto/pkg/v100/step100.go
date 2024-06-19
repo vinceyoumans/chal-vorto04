@@ -4,17 +4,34 @@ import (
 	"bufio"
 	"log"
 	"os"
+	"path/filepath"
 	"strconv"
 	"strings"
 
 	"github.com/vinceyoumans/chal-vorto04/vorto/pkg/strucs"
 )
 
-func StepV100(ProblemPathFile string) []strucs.Problem100 {
+func StepV100(ProblemPathFile string) strucs.Problems100S {
+	// Define the log file path
+	logFilePath := "../output/slog/V100.log"
 
-	slog := log.New(os.Stdout, "INFO: ", log.Ltime|log.Lshortfile)
+	// Ensure the directory exists
+	logDir := filepath.Dir(logFilePath)
+	if err := os.MkdirAll(logDir, 0755); err != nil {
+		log.Fatalf("Failed to create log directory: %v", err)
+	}
+	// Open a file for writing log messages
+	logFile, err := os.OpenFile("../output/slog/V100.log", os.O_APPEND|os.O_CREATE|os.O_WRONLY, 0666)
+	if err != nil {
+		log.Fatalf("Failed to open log file: %v", err)
+	}
+	defer logFile.Close()
 
-	slog.Println("v100")
+	// Create a new logger that writes to the file
+	slog := log.New(logFile, "INFO: ", log.Ltime|log.Lshortfile)
+
+	// Write a log message
+	slog.Println("v100 - step100")
 
 	// Step A100 - Consume ProblemFile
 	// Seed Everything with an array 0
@@ -36,7 +53,7 @@ func StepV100(ProblemPathFile string) []strucs.Problem100 {
 	file, err := os.Open(ProblemPathFile)
 	if err != nil {
 		slog.Println("V100 - Error opening file:", err)
-		return nil
+		// return nil
 	}
 	defer file.Close()
 
@@ -77,12 +94,25 @@ func StepV100(ProblemPathFile string) []strucs.Problem100 {
 		probStrucS = append(probStrucS, probStruc)
 
 	}
+	var p strucs.Problems100S
+	p.Problems = probStrucS
 
-	return probStrucS
+	return p
 }
 
 func parseLatLong(str string) strucs.LatLong {
-	slog := log.New(os.Stdout, "INFO: ", log.Ltime|log.Lshortfile)
+	// Open a file for writing log messages
+	logFile, err := os.OpenFile("../output/slog/V100B.log", os.O_APPEND|os.O_CREATE|os.O_WRONLY, 0666)
+	if err != nil {
+		log.Fatalf("Failed to open log file: %v", err)
+	}
+	defer logFile.Close()
+
+	// Create a new logger that writes to the file
+	slog := log.New(logFile, "INFO: ", log.Ltime|log.Lshortfile)
+
+	// Write a log message
+	slog.Println("v100 - step100- parseLatLong")
 
 	str = strings.Trim(str, "()")
 	parts := strings.Split(str, ",")

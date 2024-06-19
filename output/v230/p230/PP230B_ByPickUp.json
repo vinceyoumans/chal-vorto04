@@ -1,0 +1,3402 @@
+[
+  {
+    "LoadID": 0,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 0,
+      "Pickup": {
+        "Latitude": 0,
+        "Longitude": 0
+      },
+      "DropOff": {
+        "Latitude": 0,
+        "Longitude": 0
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 169,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 169,
+      "Pickup": {
+        "Latitude": 68.71724451817101,
+        "Longitude": -10.21086789680573
+      },
+      "DropOff": {
+        "Latitude": 59.95769348931387,
+        "Longitude": -70.92167458353845
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 78,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 78,
+      "Pickup": {
+        "Latitude": -64.01679699675634,
+        "Longitude": -20.22251083776208
+      },
+      "DropOff": {
+        "Latitude": -52.57133223160976,
+        "Longitude": -58.71659729345714
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 43,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 43,
+      "Pickup": {
+        "Latitude": -14.4100466784308,
+        "Longitude": -34.253009604664555
+      },
+      "DropOff": {
+        "Latitude": -9.132796605732942,
+        "Longitude": 90.14715553395197
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 92,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 92,
+      "Pickup": {
+        "Latitude": 119.44590276495337,
+        "Longitude": -102.29618882294173
+      },
+      "DropOff": {
+        "Latitude": 176.4669488795997,
+        "Longitude": -207.42198069064256
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 58,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 58,
+      "Pickup": {
+        "Latitude": 29.52712759853298,
+        "Longitude": 67.83020405494777
+      },
+      "DropOff": {
+        "Latitude": -21.362595039987237,
+        "Longitude": -42.35842738500003
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 82,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 82,
+      "Pickup": {
+        "Latitude": 156.80719336336026,
+        "Longitude": 14.260547062230543
+      },
+      "DropOff": {
+        "Latitude": 121.35442148926323,
+        "Longitude": 68.6466346071881
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 190,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 190,
+      "Pickup": {
+        "Latitude": 73.07419717843764,
+        "Longitude": 37.027808757222914
+      },
+      "DropOff": {
+        "Latitude": 39.08882594196426,
+        "Longitude": -61.00027581978951
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 42,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 42,
+      "Pickup": {
+        "Latitude": 36.621262048178856,
+        "Longitude": 3.4705057019894223
+      },
+      "DropOff": {
+        "Latitude": -8.086192733276107,
+        "Longitude": -60.48192619246679
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 178,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 178,
+      "Pickup": {
+        "Latitude": -46.94029865730001,
+        "Longitude": -2.3127414496796104
+      },
+      "DropOff": {
+        "Latitude": 17.939673397381036,
+        "Longitude": -29.016696014681166
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 46,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 46,
+      "Pickup": {
+        "Latitude": 25.83169085914816,
+        "Longitude": 6.206107409808504
+      },
+      "DropOff": {
+        "Latitude": -66.26782145573583,
+        "Longitude": 94.59834676465258
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 70,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 70,
+      "Pickup": {
+        "Latitude": 37.41108062791912,
+        "Longitude": 17.600797310284744
+      },
+      "DropOff": {
+        "Latitude": -22.661103382757574,
+        "Longitude": 118.44600687977116
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 79,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 79,
+      "Pickup": {
+        "Latitude": -80.15329585832806,
+        "Longitude": -19.398814928782482
+      },
+      "DropOff": {
+        "Latitude": -80.71470301220735,
+        "Longitude": -70.07525519271599
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 179,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 179,
+      "Pickup": {
+        "Latitude": 51.07942730323607,
+        "Longitude": -69.61258451527962
+      },
+      "DropOff": {
+        "Latitude": 81.48119486049134,
+        "Longitude": 32.33696574085168
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 9,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 9,
+      "Pickup": {
+        "Latitude": -23.67892086307106,
+        "Longitude": 10.490976225547048
+      },
+      "DropOff": {
+        "Latitude": 73.97028808526528,
+        "Longitude": 92.56805224709231
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 125,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 125,
+      "Pickup": {
+        "Latitude": -71.63949121145848,
+        "Longitude": -72.19165490501994
+      },
+      "DropOff": {
+        "Latitude": 0.5998063638755724,
+        "Longitude": -48.243836075319635
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 23,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 23,
+      "Pickup": {
+        "Latitude": -27.632748097862198,
+        "Longitude": 128.31341904955815
+      },
+      "DropOff": {
+        "Latitude": -52.52523374144805,
+        "Longitude": 272.2254869781392
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 67,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 67,
+      "Pickup": {
+        "Latitude": -21.95245976006218,
+        "Longitude": -71.33883466765704
+      },
+      "DropOff": {
+        "Latitude": 30.66013462196339,
+        "Longitude": -45.884935840371526
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 197,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 197,
+      "Pickup": {
+        "Latitude": -25.789847348206443,
+        "Longitude": -70.77291733625302
+      },
+      "DropOff": {
+        "Latitude": 30.428324645486143,
+        "Longitude": 1.4905134331533532
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 73,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 73,
+      "Pickup": {
+        "Latitude": 105.62925291424244,
+        "Longitude": -62.589529465337435
+      },
+      "DropOff": {
+        "Latitude": 66.70209958542587,
+        "Longitude": 80.39427717768076
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 142,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 142,
+      "Pickup": {
+        "Latitude": -9.21955989750397,
+        "Longitude": -46.08057933682784
+      },
+      "DropOff": {
+        "Latitude": -77.66549507120837,
+        "Longitude": 26.693852091288164
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 172,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 172,
+      "Pickup": {
+        "Latitude": 50.30128688827818,
+        "Longitude": 37.49782863318468
+      },
+      "DropOff": {
+        "Latitude": 69.02759142181073,
+        "Longitude": -60.3280427282012
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 188,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 188,
+      "Pickup": {
+        "Latitude": -27.29855963356659,
+        "Longitude": 0.9962500435155648
+      },
+      "DropOff": {
+        "Latitude": -51.824773196315064,
+        "Longitude": 137.97915365467446
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 180,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 180,
+      "Pickup": {
+        "Latitude": 16.17303632877507,
+        "Longitude": 58.594720767081334
+      },
+      "DropOff": {
+        "Latitude": -51.415963235742154,
+        "Longitude": 165.67894039351359
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 47,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 47,
+      "Pickup": {
+        "Latitude": -130.39866131118544,
+        "Longitude": 123.98985910625565
+      },
+      "DropOff": {
+        "Latitude": -192.16722959108094,
+        "Longitude": 229.48029985668137
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 152,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 152,
+      "Pickup": {
+        "Latitude": -12.607702027343006,
+        "Longitude": -134.78513116238975
+      },
+      "DropOff": {
+        "Latitude": 75.76868334233687,
+        "Longitude": -169.84697412440795
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 110,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 110,
+      "Pickup": {
+        "Latitude": -42.05894129930217,
+        "Longitude": -14.913606002401206
+      },
+      "DropOff": {
+        "Latitude": -92.7557235652072,
+        "Longitude": -25.856281637218576
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 6,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 6,
+      "Pickup": {
+        "Latitude": 6.64684318326844,
+        "Longitude": -8.215837772449849
+      },
+      "DropOff": {
+        "Latitude": 47.06077253728739,
+        "Longitude": -75.77651162214984
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 27,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 27,
+      "Pickup": {
+        "Latitude": 70.89705389277827,
+        "Longitude": 7.070590866225775
+      },
+      "DropOff": {
+        "Latitude": 27.054156638754968,
+        "Longitude": -3.0759576558165573
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 31,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 31,
+      "Pickup": {
+        "Latitude": 38.702555306133334,
+        "Longitude": 16.032734951501247
+      },
+      "DropOff": {
+        "Latitude": 86.65333289598695,
+        "Longitude": 85.64438763902919
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 134,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 134,
+      "Pickup": {
+        "Latitude": -97.1045264024682,
+        "Longitude": -80.19354655091895
+      },
+      "DropOff": {
+        "Latitude": -29.302687170587618,
+        "Longitude": -204.1565412327363
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 51,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 51,
+      "Pickup": {
+        "Latitude": -10.467466797168054,
+        "Longitude": 40.310500704786214
+      },
+      "DropOff": {
+        "Latitude": -39.98438114676998,
+        "Longitude": 65.93318723416006
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 21,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 21,
+      "Pickup": {
+        "Latitude": -36.49543514575599,
+        "Longitude": -11.883114610363009
+      },
+      "DropOff": {
+        "Latitude": -123.49531987697782,
+        "Longitude": 32.373497970898875
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 164,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 164,
+      "Pickup": {
+        "Latitude": 13.987587519940416,
+        "Longitude": 74.90797430104031
+      },
+      "DropOff": {
+        "Latitude": -42.89210169681756,
+        "Longitude": 205.14557535264674
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 132,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 132,
+      "Pickup": {
+        "Latitude": -16.77259864407085,
+        "Longitude": 35.971312933120245
+      },
+      "DropOff": {
+        "Latitude": 26.78308155450132,
+        "Longitude": 63.14509378313987
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 60,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 60,
+      "Pickup": {
+        "Latitude": -41.441561873317525,
+        "Longitude": -5.782673767196254
+      },
+      "DropOff": {
+        "Latitude": -115.61689842335849,
+        "Longitude": 82.4183566222439
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 71,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 71,
+      "Pickup": {
+        "Latitude": 57.5743891475384,
+        "Longitude": 89.29757436003572
+      },
+      "DropOff": {
+        "Latitude": 61.56835984163266,
+        "Longitude": 111.68320596097166
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 114,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 114,
+      "Pickup": {
+        "Latitude": 54.762578593638516,
+        "Longitude": 38.1053132920246
+      },
+      "DropOff": {
+        "Latitude": 114.86235087093554,
+        "Longitude": -71.43103565955028
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 126,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 126,
+      "Pickup": {
+        "Latitude": 78.53972526462039,
+        "Longitude": -90.70305083793185
+      },
+      "DropOff": {
+        "Latitude": 180.5314539049461,
+        "Longitude": -177.6961899965455
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 182,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 182,
+      "Pickup": {
+        "Latitude": -45.517547889308965,
+        "Longitude": -11.16289955816002
+      },
+      "DropOff": {
+        "Latitude": -111.78538589715544,
+        "Longitude": -96.202849842472
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 10,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 10,
+      "Pickup": {
+        "Latitude": 28.427595047382827,
+        "Longitude": 16.086272680733455
+      },
+      "DropOff": {
+        "Latitude": 37.22145150891079,
+        "Longitude": 22.833720292576086
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 116,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 116,
+      "Pickup": {
+        "Latitude": -93.67214941718572,
+        "Longitude": 51.625314925922936
+      },
+      "DropOff": {
+        "Latitude": -202.05632087316778,
+        "Longitude": -22.238844783255203
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 155,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 155,
+      "Pickup": {
+        "Latitude": -19.102570403679316,
+        "Longitude": -65.54741281164019
+      },
+      "DropOff": {
+        "Latitude": -104.03276970073534,
+        "Longitude": -124.83683828085958
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 33,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 33,
+      "Pickup": {
+        "Latitude": 78.75090546139475,
+        "Longitude": -10.672320353210564
+      },
+      "DropOff": {
+        "Latitude": 144.99858161315743,
+        "Longitude": 2.790136577200233
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 170,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 170,
+      "Pickup": {
+        "Latitude": -24.204144533454873,
+        "Longitude": -33.63221215281446
+      },
+      "DropOff": {
+        "Latitude": 124.37816263583193,
+        "Longitude": -41.61414087487395
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 168,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 168,
+      "Pickup": {
+        "Latitude": 50.41870069047263,
+        "Longitude": 2.693586709058451
+      },
+      "DropOff": {
+        "Latitude": 60.63258512839519,
+        "Longitude": -31.161480937872717
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 19,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 19,
+      "Pickup": {
+        "Latitude": -115.00598835004995,
+        "Longitude": 53.67261288424668
+      },
+      "DropOff": {
+        "Latitude": -233.24429348102228,
+        "Longitude": 109.4318182269084
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 159,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 159,
+      "Pickup": {
+        "Latitude": 118.83348207541007,
+        "Longitude": 24.448618361708863
+      },
+      "DropOff": {
+        "Latitude": 174.85624002609285,
+        "Longitude": 23.489960066449253
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 187,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 187,
+      "Pickup": {
+        "Latitude": 15.090640756808858,
+        "Longitude": -32.977515953585275
+      },
+      "DropOff": {
+        "Latitude": -92.90661943798744,
+        "Longitude": -20.559060966962278
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 149,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 149,
+      "Pickup": {
+        "Latitude": 67.66378666985898,
+        "Longitude": -56.323553343949406
+      },
+      "DropOff": {
+        "Latitude": 160.7336854145804,
+        "Longitude": -19.39471581633098
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 128,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 128,
+      "Pickup": {
+        "Latitude": 22.971449330231923,
+        "Longitude": 29.923002601574296
+      },
+      "DropOff": {
+        "Latitude": -23.47258395366733,
+        "Longitude": 170.21353531360853
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 56,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 56,
+      "Pickup": {
+        "Latitude": -35.106454203663304,
+        "Longitude": 23.978417034333667
+      },
+      "DropOff": {
+        "Latitude": -181.60195174958716,
+        "Longitude": 29.307708117335977
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 198,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 198,
+      "Pickup": {
+        "Latitude": 124.15156348002104,
+        "Longitude": 37.005505278117965
+      },
+      "DropOff": {
+        "Latitude": 104.51308893582708,
+        "Longitude": -86.09801475706837
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 77,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 77,
+      "Pickup": {
+        "Latitude": -120.29444221409338,
+        "Longitude": -115.55838901328845
+      },
+      "DropOff": {
+        "Latitude": -51.35090941390824,
+        "Longitude": 1.8921350300223594
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 186,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 186,
+      "Pickup": {
+        "Latitude": -29.93569809795853,
+        "Longitude": -0.9346497188683351
+      },
+      "DropOff": {
+        "Latitude": 23.28684652933478,
+        "Longitude": -128.74039896587797
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 81,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 81,
+      "Pickup": {
+        "Latitude": 84.43721884374287,
+        "Longitude": -47.5978634039899
+      },
+      "DropOff": {
+        "Latitude": 144.97240830269882,
+        "Longitude": 41.92256298898122
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 74,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 74,
+      "Pickup": {
+        "Latitude": 37.51764814578474,
+        "Longitude": -25.137992342471566
+      },
+      "DropOff": {
+        "Latitude": 65.03957152551234,
+        "Longitude": -45.37264199256364
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 97,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 97,
+      "Pickup": {
+        "Latitude": -0.17821835402927722,
+        "Longitude": -109.62865887049244
+      },
+      "DropOff": {
+        "Latitude": -100.18766393909503,
+        "Longitude": -173.9923730589089
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 65,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 65,
+      "Pickup": {
+        "Latitude": 78.55081088594946,
+        "Longitude": -0.3367667336139988
+      },
+      "DropOff": {
+        "Latitude": 69.41212289960984,
+        "Longitude": 126.42287758915283
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 147,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 147,
+      "Pickup": {
+        "Latitude": 2.8730637535779735,
+        "Longitude": 223.58051427174195
+      },
+      "DropOff": {
+        "Latitude": 72.99634048441527,
+        "Longitude": 95.24049641798092
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 99,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 99,
+      "Pickup": {
+        "Latitude": 15.015751583099277,
+        "Longitude": -33.42515148699377
+      },
+      "DropOff": {
+        "Latitude": 102.90464291647793,
+        "Longitude": -82.40603567889147
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 123,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 123,
+      "Pickup": {
+        "Latitude": -18.17235389599887,
+        "Longitude": -0.12163973834819433
+      },
+      "DropOff": {
+        "Latitude": 88.070548471398,
+        "Longitude": -51.0882600110786
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 111,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 111,
+      "Pickup": {
+        "Latitude": 19.855494980554788,
+        "Longitude": -22.61497781808095
+      },
+      "DropOff": {
+        "Latitude": -32.97639183778351,
+        "Longitude": 81.65225252263531
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 38,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 38,
+      "Pickup": {
+        "Latitude": 70.97120327287789,
+        "Longitude": -36.980658893213324
+      },
+      "DropOff": {
+        "Latitude": 87.68640437907145,
+        "Longitude": -16.218462011421735
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 30,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 30,
+      "Pickup": {
+        "Latitude": 64.88465586579972,
+        "Longitude": -50.25327147805574
+      },
+      "DropOff": {
+        "Latitude": 116.16174099626863,
+        "Longitude": 8.868280911129723
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 2,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 2,
+      "Pickup": {
+        "Latitude": -161.65593927317377,
+        "Longitude": -65.67481432724838
+      },
+      "DropOff": {
+        "Latitude": -135.3054793021323,
+        "Longitude": 42.51074152812761
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 50,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 50,
+      "Pickup": {
+        "Latitude": -46.66715002427193,
+        "Longitude": 32.748486349699164
+      },
+      "DropOff": {
+        "Latitude": -85.83711174510529,
+        "Longitude": 15.052908908977223
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 4,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 4,
+      "Pickup": {
+        "Latitude": -27.122557871110608,
+        "Longitude": 5.57398329054593
+      },
+      "DropOff": {
+        "Latitude": -134.03552084887804,
+        "Longitude": 98.2264887616846
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 80,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 80,
+      "Pickup": {
+        "Latitude": 4.0401548019956905,
+        "Longitude": 13.622061641560983
+      },
+      "DropOff": {
+        "Latitude": 151.05558664963368,
+        "Longitude": 36.26745816746249
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 89,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 89,
+      "Pickup": {
+        "Latitude": -38.51692763050802,
+        "Longitude": -31.75103017823423
+      },
+      "DropOff": {
+        "Latitude": 76.77772438639509,
+        "Longitude": -77.2974071525472
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 112,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 112,
+      "Pickup": {
+        "Latitude": -32.06498460257369,
+        "Longitude": -38.04409541064398
+      },
+      "DropOff": {
+        "Latitude": -148.48340377138965,
+        "Longitude": -125.66494804425585
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 64,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 64,
+      "Pickup": {
+        "Latitude": -15.590452120069166,
+        "Longitude": -18.514223172397674
+      },
+      "DropOff": {
+        "Latitude": 43.762436278558525,
+        "Longitude": -104.7684055206556
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 191,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 191,
+      "Pickup": {
+        "Latitude": 20.419949771173513,
+        "Longitude": 60.94008080521316
+      },
+      "DropOff": {
+        "Latitude": 121.43896613689608,
+        "Longitude": -8.401330041264586
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 11,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 11,
+      "Pickup": {
+        "Latitude": -53.521844771829045,
+        "Longitude": 111.76250350335121
+      },
+      "DropOff": {
+        "Latitude": -4.266456358011297,
+        "Longitude": -10.263698324989292
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 63,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 63,
+      "Pickup": {
+        "Latitude": 22.64274816425671,
+        "Longitude": 16.791129784207158
+      },
+      "DropOff": {
+        "Latitude": -14.347929107545596,
+        "Longitude": 102.99685602133823
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 68,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 68,
+      "Pickup": {
+        "Latitude": 75.6084215652351,
+        "Longitude": 75.44538445650527
+      },
+      "DropOff": {
+        "Latitude": -56.96542791821368,
+        "Longitude": 79.99399171332571
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 88,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 88,
+      "Pickup": {
+        "Latitude": -7.3439276065423345,
+        "Longitude": 1.240635433621135
+      },
+      "DropOff": {
+        "Latitude": -135.89941309119016,
+        "Longitude": 37.27612523979056
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 94,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 94,
+      "Pickup": {
+        "Latitude": 22.870714306568285,
+        "Longitude": 39.517898639735456
+      },
+      "DropOff": {
+        "Latitude": 61.596745704707686,
+        "Longitude": 92.48649405719459
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 108,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 108,
+      "Pickup": {
+        "Latitude": -63.85005500960864,
+        "Longitude": -109.99859487792705
+      },
+      "DropOff": {
+        "Latitude": -142.35829740212836,
+        "Longitude": -142.4610600706249
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 39,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 39,
+      "Pickup": {
+        "Latitude": -34.97393945029769,
+        "Longitude": 27.890414664034267
+      },
+      "DropOff": {
+        "Latitude": -88.41609876818922,
+        "Longitude": 54.51577841854511
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 107,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 107,
+      "Pickup": {
+        "Latitude": 32.394411817608656,
+        "Longitude": -8.19925019732701
+      },
+      "DropOff": {
+        "Latitude": 45.2924087985716,
+        "Longitude": -39.04335378142346
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 44,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 44,
+      "Pickup": {
+        "Latitude": -137.85092483312653,
+        "Longitude": 59.485495310871144
+      },
+      "DropOff": {
+        "Latitude": -78.66931518206438,
+        "Longitude": 66.99752183958515
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 84,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 84,
+      "Pickup": {
+        "Latitude": -29.145751431721344,
+        "Longitude": 124.95367481150555
+      },
+      "DropOff": {
+        "Latitude": 51.86385768204119,
+        "Longitude": 221.319236611012
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 120,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 120,
+      "Pickup": {
+        "Latitude": -5.987420553139974,
+        "Longitude": -10.14533206496537
+      },
+      "DropOff": {
+        "Latitude": -91.68924647462397,
+        "Longitude": -122.39276400298283
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 199,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 199,
+      "Pickup": {
+        "Latitude": 22.74398144811202,
+        "Longitude": 19.816304787555325
+      },
+      "DropOff": {
+        "Latitude": 36.047263208583715,
+        "Longitude": 152.2657142510776
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 176,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 176,
+      "Pickup": {
+        "Latitude": -34.95600490302493,
+        "Longitude": 32.96609587893822
+      },
+      "DropOff": {
+        "Latitude": 16.035080165705985,
+        "Longitude": 144.33292245413622
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 151,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 151,
+      "Pickup": {
+        "Latitude": -109.06026692471612,
+        "Longitude": 10.418017581792643
+      },
+      "DropOff": {
+        "Latitude": -56.40996420273642,
+        "Longitude": -79.44711212943683
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 161,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 161,
+      "Pickup": {
+        "Latitude": 6.25498746745027,
+        "Longitude": 84.86653501389794
+      },
+      "DropOff": {
+        "Latitude": -132.65529970670192,
+        "Longitude": 111.59007832614321
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 148,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 148,
+      "Pickup": {
+        "Latitude": -38.37977718185418,
+        "Longitude": 13.473533905129948
+      },
+      "DropOff": {
+        "Latitude": -14.857934929465959,
+        "Longitude": -5.897604594306781
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 5,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 5,
+      "Pickup": {
+        "Latitude": -5.437650426430196,
+        "Longitude": 46.79372987343775
+      },
+      "DropOff": {
+        "Latitude": 34.95686297226499,
+        "Longitude": -77.86531858519476
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 98,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 98,
+      "Pickup": {
+        "Latitude": -69.09374371924916,
+        "Longitude": -38.65003022808256
+      },
+      "DropOff": {
+        "Latitude": -37.27055544873984,
+        "Longitude": -130.94167467520413
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 7,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 7,
+      "Pickup": {
+        "Latitude": 7.947782519863576,
+        "Longitude": 57.53281815657398
+      },
+      "DropOff": {
+        "Latitude": 72.85061324379059,
+        "Longitude": 154.72729058580632
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 52,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 52,
+      "Pickup": {
+        "Latitude": 87.84379730325327,
+        "Longitude": 123.92359020783186
+      },
+      "DropOff": {
+        "Latitude": -37.676700699034,
+        "Longitude": 148.96576352144297
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 91,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 91,
+      "Pickup": {
+        "Latitude": 98.06947421590337,
+        "Longitude": -11.874361924067788
+      },
+      "DropOff": {
+        "Latitude": 99.58155479296678,
+        "Longitude": -82.52253501076316
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 158,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 158,
+      "Pickup": {
+        "Latitude": 55.14404909841346,
+        "Longitude": -110.05024716292829
+      },
+      "DropOff": {
+        "Latitude": 34.97069658356733,
+        "Longitude": -19.281210820842176
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 194,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 194,
+      "Pickup": {
+        "Latitude": -33.454970622140785,
+        "Longitude": 14.620944732646237
+      },
+      "DropOff": {
+        "Latitude": -66.55609861913483,
+        "Longitude": -54.41010315207485
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 22,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 22,
+      "Pickup": {
+        "Latitude": 5.109746551695388,
+        "Longitude": -31.216968034801972
+      },
+      "DropOff": {
+        "Latitude": 3.051681290306313,
+        "Longitude": 78.42354568742616
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 17,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 17,
+      "Pickup": {
+        "Latitude": 95.92443619845744,
+        "Longitude": 90.79264282789967
+      },
+      "DropOff": {
+        "Latitude": 174.1652919838095,
+        "Longitude": 64.43364511073474
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 90,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 90,
+      "Pickup": {
+        "Latitude": -14.557463831688192,
+        "Longitude": 36.63481107808099
+      },
+      "DropOff": {
+        "Latitude": 87.96846602136098,
+        "Longitude": 128.12985735764434
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 14,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 14,
+      "Pickup": {
+        "Latitude": 39.00428360616091,
+        "Longitude": -92.45328076905281
+      },
+      "DropOff": {
+        "Latitude": 26.997649856728295,
+        "Longitude": -132.64552240330664
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 25,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 25,
+      "Pickup": {
+        "Latitude": 3.5022419543396253,
+        "Longitude": -34.57694280222059
+      },
+      "DropOff": {
+        "Latitude": -88.54937458364965,
+        "Longitude": 25.85952848101993
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 153,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 153,
+      "Pickup": {
+        "Latitude": 92.88512621681532,
+        "Longitude": -23.101956993859577
+      },
+      "DropOff": {
+        "Latitude": 173.95149000634265,
+        "Longitude": 87.87798693113596
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 26,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 26,
+      "Pickup": {
+        "Latitude": 53.76267341564356,
+        "Longitude": -15.893539578936196
+      },
+      "DropOff": {
+        "Latitude": 148.44716794772438,
+        "Longitude": 10.026180021137506
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 174,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 174,
+      "Pickup": {
+        "Latitude": -108.82752884464728,
+        "Longitude": 5.102235453557643
+      },
+      "DropOff": {
+        "Latitude": -117.38781184934179,
+        "Longitude": 12.636089437273437
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 32,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 32,
+      "Pickup": {
+        "Latitude": -42.949230881609154,
+        "Longitude": 10.993872962722484
+      },
+      "DropOff": {
+        "Latitude": 15.23536981238447,
+        "Longitude": -77.18093104537445
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 173,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 173,
+      "Pickup": {
+        "Latitude": 121.90902948996083,
+        "Longitude": 81.3820974370955
+      },
+      "DropOff": {
+        "Latitude": 31.9148059895642,
+        "Longitude": 54.36405657235623
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 40,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 40,
+      "Pickup": {
+        "Latitude": -82.87095783628223,
+        "Longitude": -99.8981374734183
+      },
+      "DropOff": {
+        "Latitude": -202.602378423272,
+        "Longitude": -11.150703916585172
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 195,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 195,
+      "Pickup": {
+        "Latitude": -178.61831595328962,
+        "Longitude": 52.45580575436413
+      },
+      "DropOff": {
+        "Latitude": -234.54463986258185,
+        "Longitude": 78.56090655418156
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 113,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 113,
+      "Pickup": {
+        "Latitude": -43.60250706644058,
+        "Longitude": -11.621724050466845
+      },
+      "DropOff": {
+        "Latitude": -3.4533975279227107,
+        "Longitude": -26.262552821473093
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 55,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 55,
+      "Pickup": {
+        "Latitude": -12.312584650991361,
+        "Longitude": -20.895377716498032
+      },
+      "DropOff": {
+        "Latitude": 31.62620919325755,
+        "Longitude": -49.90025226282366
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 57,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 57,
+      "Pickup": {
+        "Latitude": -27.589521353365235,
+        "Longitude": 11.635174141967736
+      },
+      "DropOff": {
+        "Latitude": 32.74902705139377,
+        "Longitude": 96.59511474714809
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 131,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 131,
+      "Pickup": {
+        "Latitude": -8.748083931257458,
+        "Longitude": 7.77963050996437
+      },
+      "DropOff": {
+        "Latitude": -97.01150518808925,
+        "Longitude": 12.249312738114037
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 12,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 12,
+      "Pickup": {
+        "Latitude": -104.13814546660379,
+        "Longitude": 110.95647122215667
+      },
+      "DropOff": {
+        "Latitude": 24.853430392037723,
+        "Longitude": 87.80839055356756
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 59,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 59,
+      "Pickup": {
+        "Latitude": -30.39411596234604,
+        "Longitude": 116.077527136082
+      },
+      "DropOff": {
+        "Latitude": -32.96383554547556,
+        "Longitude": 77.70040526292763
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 145,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 145,
+      "Pickup": {
+        "Latitude": -19.428825797472957,
+        "Longitude": 34.09281116927289
+      },
+      "DropOff": {
+        "Latitude": -146.37371732236593,
+        "Longitude": 3.6408323870873076
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 138,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 138,
+      "Pickup": {
+        "Latitude": -2.7456010578510517,
+        "Longitude": -10.958598922335721
+      },
+      "DropOff": {
+        "Latitude": -21.271126122948296,
+        "Longitude": -80.09273807938477
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 118,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 118,
+      "Pickup": {
+        "Latitude": -24.62907430802446,
+        "Longitude": -3.1269999117726646
+      },
+      "DropOff": {
+        "Latitude": -59.997103491257775,
+        "Longitude": -75.5193324283415
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 83,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 83,
+      "Pickup": {
+        "Latitude": -3.9775617554260236,
+        "Longitude": -38.82209605483727
+      },
+      "DropOff": {
+        "Latitude": -39.741314893022675,
+        "Longitude": -8.341494875301557
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 100,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 100,
+      "Pickup": {
+        "Latitude": -60.122321884138515,
+        "Longitude": -112.05328915841336
+      },
+      "DropOff": {
+        "Latitude": 20.28047372867252,
+        "Longitude": -193.59903689830148
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 54,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 54,
+      "Pickup": {
+        "Latitude": 120.51317608400839,
+        "Longitude": -58.022851276397375
+      },
+      "DropOff": {
+        "Latitude": 66.64987856670135,
+        "Longitude": -154.21159719334355
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 28,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 28,
+      "Pickup": {
+        "Latitude": 81.19141305003629,
+        "Longitude": 155.04181003883232
+      },
+      "DropOff": {
+        "Latitude": 126.3090651445244,
+        "Longitude": 101.36116652182056
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 1,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 1,
+      "Pickup": {
+        "Latitude": -81.31601096717336,
+        "Longitude": 146.1861590972063
+      },
+      "DropOff": {
+        "Latitude": -137.08683395394672,
+        "Longitude": 47.813098996155006
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 16,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 16,
+      "Pickup": {
+        "Latitude": -43.54831105503018,
+        "Longitude": 61.11965937124444
+      },
+      "DropOff": {
+        "Latitude": 26.69374105127639,
+        "Longitude": -36.65548729581418
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 103,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 103,
+      "Pickup": {
+        "Latitude": 145.07150493485892,
+        "Longitude": -7.093055683552137
+      },
+      "DropOff": {
+        "Latitude": 57.814944605022475,
+        "Longitude": 74.02383209888289
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 3,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 3,
+      "Pickup": {
+        "Latitude": 34.030733960074095,
+        "Longitude": 22.813564486590252
+      },
+      "DropOff": {
+        "Latitude": -28.166184315126266,
+        "Longitude": 124.46635733053157
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 109,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 109,
+      "Pickup": {
+        "Latitude": 10.365079943556271,
+        "Longitude": -60.06548512008731
+      },
+      "DropOff": {
+        "Latitude": -44.93553961564976,
+        "Longitude": -87.00392664261817
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 189,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 189,
+      "Pickup": {
+        "Latitude": 47.34816705535316,
+        "Longitude": -4.764217159730456
+      },
+      "DropOff": {
+        "Latitude": 50.545880940485084,
+        "Longitude": 59.17573338516177
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 137,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 137,
+      "Pickup": {
+        "Latitude": 23.17472485736014,
+        "Longitude": 123.11012728802541
+      },
+      "DropOff": {
+        "Latitude": -36.69817878634337,
+        "Longitude": 147.20198969891342
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 160,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 160,
+      "Pickup": {
+        "Latitude": 3.057678304711622,
+        "Longitude": -8.31025913693063
+      },
+      "DropOff": {
+        "Latitude": 96.61751979546719,
+        "Longitude": -17.38274867815639
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 171,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 171,
+      "Pickup": {
+        "Latitude": -40.14443911695424,
+        "Longitude": 20.393422599137413
+      },
+      "DropOff": {
+        "Latitude": -13.282927931852868,
+        "Longitude": 62.75572435449598
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 34,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 34,
+      "Pickup": {
+        "Latitude": -22.48534024601346,
+        "Longitude": -54.73178494483901
+      },
+      "DropOff": {
+        "Latitude": 59.07636104254817,
+        "Longitude": 16.89585850986456
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 166,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 166,
+      "Pickup": {
+        "Latitude": -100.92358270153035,
+        "Longitude": -73.736620736672
+      },
+      "DropOff": {
+        "Latitude": -50.17305988805942,
+        "Longitude": -141.5816507552443
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 163,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 163,
+      "Pickup": {
+        "Latitude": 34.244550926564706,
+        "Longitude": 67.44154724644183
+      },
+      "DropOff": {
+        "Latitude": 55.02589309859394,
+        "Longitude": 2.716060495241848
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 119,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 119,
+      "Pickup": {
+        "Latitude": 16.995387011739144,
+        "Longitude": 89.34727893533866
+      },
+      "DropOff": {
+        "Latitude": -120.8733924688661,
+        "Longitude": 58.39208798537794
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 143,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 143,
+      "Pickup": {
+        "Latitude": 68.4068037812965,
+        "Longitude": 136.4888399659244
+      },
+      "DropOff": {
+        "Latitude": 13.231372853538232,
+        "Longitude": 181.8846984295451
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 156,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 156,
+      "Pickup": {
+        "Latitude": -203.99796627916334,
+        "Longitude": 28.438109054038804
+      },
+      "DropOff": {
+        "Latitude": -238.32201519787378,
+        "Longitude": 0.058621307027962644
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 53,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 53,
+      "Pickup": {
+        "Latitude": 18.697868509622392,
+        "Longitude": -25.834324850508473
+      },
+      "DropOff": {
+        "Latitude": -36.58648106821063,
+        "Longitude": -4.099194453735446
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 154,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 154,
+      "Pickup": {
+        "Latitude": 42.22009164680085,
+        "Longitude": -44.35924672930029
+      },
+      "DropOff": {
+        "Latitude": -61.52329939837911,
+        "Longitude": -145.89142806790335
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 41,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 41,
+      "Pickup": {
+        "Latitude": -24.203361902107265,
+        "Longitude": -72.21937581149804
+      },
+      "DropOff": {
+        "Latitude": 77.59345466556525,
+        "Longitude": 3.9668554144132315
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 45,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 45,
+      "Pickup": {
+        "Latitude": -52.75132488921954,
+        "Longitude": -119.83830722289017
+      },
+      "DropOff": {
+        "Latitude": 45.557929244963,
+        "Longitude": -33.19526545306243
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 95,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 95,
+      "Pickup": {
+        "Latitude": 24.509800146695984,
+        "Longitude": -93.22829190076706
+      },
+      "DropOff": {
+        "Latitude": -75.97247181575106,
+        "Longitude": -198.17439202118413
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 72,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 72,
+      "Pickup": {
+        "Latitude": 25.86428417767513,
+        "Longitude": -77.43428053857615
+      },
+      "DropOff": {
+        "Latitude": 165.6057282741133,
+        "Longitude": -62.0183198518472
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 104,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 104,
+      "Pickup": {
+        "Latitude": -122.62057683731071,
+        "Longitude": 6.200384670062342
+      },
+      "DropOff": {
+        "Latitude": -186.55974138378468,
+        "Longitude": -73.07751754995985
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 139,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 139,
+      "Pickup": {
+        "Latitude": -38.89346277814013,
+        "Longitude": 112.83467823438045
+      },
+      "DropOff": {
+        "Latitude": -160.9278688189337,
+        "Longitude": 143.15777286099086
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 13,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 13,
+      "Pickup": {
+        "Latitude": -101.03592019871066,
+        "Longitude": -59.86956140977945
+      },
+      "DropOff": {
+        "Latitude": -31.701550479119817,
+        "Longitude": 35.392703213667076
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 136,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 136,
+      "Pickup": {
+        "Latitude": 125.59803956993125,
+        "Longitude": -62.48363371336103
+      },
+      "DropOff": {
+        "Latitude": 50.28429726228413,
+        "Longitude": -49.179786467025515
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 135,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 135,
+      "Pickup": {
+        "Latitude": -64.61407004424862,
+        "Longitude": -10.242625199351359
+      },
+      "DropOff": {
+        "Latitude": -0.9288737815422365,
+        "Longitude": 86.74658296129948
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 29,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 29,
+      "Pickup": {
+        "Latitude": -24.13704706320422,
+        "Longitude": -26.55454584330817
+      },
+      "DropOff": {
+        "Latitude": 5.316921848486409,
+        "Longitude": -148.92647451523388
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 8,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 8,
+      "Pickup": {
+        "Latitude": -29.411934901224285,
+        "Longitude": -14.405779754769657
+      },
+      "DropOff": {
+        "Latitude": -53.20887905801817,
+        "Longitude": 56.922631147573895
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 36,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 36,
+      "Pickup": {
+        "Latitude": -135.80741563034036,
+        "Longitude": 46.75578652338268
+      },
+      "DropOff": {
+        "Latitude": -130.71605563125013,
+        "Longitude": -60.4192044299749
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 146,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 146,
+      "Pickup": {
+        "Latitude": -57.29096033401649,
+        "Longitude": 181.1623957120779
+      },
+      "DropOff": {
+        "Latitude": 89.76390061560315,
+        "Longitude": 155.46517911041272
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 124,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 124,
+      "Pickup": {
+        "Latitude": -78.80819690804033,
+        "Longitude": -161.47146302049754
+      },
+      "DropOff": {
+        "Latitude": -117.1724337854753,
+        "Longitude": -37.204914645464044
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 115,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 115,
+      "Pickup": {
+        "Latitude": 33.27831480181397,
+        "Longitude": 112.37117468699834
+      },
+      "DropOff": {
+        "Latitude": -76.36342327663922,
+        "Longitude": 140.0697902303038
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 141,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 141,
+      "Pickup": {
+        "Latitude": -41.730934133323935,
+        "Longitude": 67.9705049160764
+      },
+      "DropOff": {
+        "Latitude": -34.92185471789927,
+        "Longitude": 13.123405961224769
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 18,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 18,
+      "Pickup": {
+        "Latitude": 0.3733966954629498,
+        "Longitude": -46.000094041511225
+      },
+      "DropOff": {
+        "Latitude": -23.0924912602957,
+        "Longitude": 35.66699028679191
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 133,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 133,
+      "Pickup": {
+        "Latitude": -171.8858898462879,
+        "Longitude": 119.83745669264884
+      },
+      "DropOff": {
+        "Latitude": -151.63468560709947,
+        "Longitude": -24.32097506403248
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 117,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 117,
+      "Pickup": {
+        "Latitude": 6.675053857348449,
+        "Longitude": -3.690487305469242
+      },
+      "DropOff": {
+        "Latitude": 95.56382562156371,
+        "Longitude": -113.90654034983525
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 177,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 177,
+      "Pickup": {
+        "Latitude": -102.9543424630185,
+        "Longitude": -28.312639224529697
+      },
+      "DropOff": {
+        "Latitude": -47.64461646253959,
+        "Longitude": -45.53713310741328
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 87,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 87,
+      "Pickup": {
+        "Latitude": 86.90484282398867,
+        "Longitude": -6.654229069666019
+      },
+      "DropOff": {
+        "Latitude": 121.26336821707011,
+        "Longitude": -16.462871843531854
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 35,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 35,
+      "Pickup": {
+        "Latitude": -94.76345280184978,
+        "Longitude": 160.87928038481456
+      },
+      "DropOff": {
+        "Latitude": 48.9192196566714,
+        "Longitude": 118.83787028703952
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 69,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 69,
+      "Pickup": {
+        "Latitude": 127.42485319774416,
+        "Longitude": -22.4672312363791
+      },
+      "DropOff": {
+        "Latitude": 8.056143444004718,
+        "Longitude": 52.689685332773074
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 144,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 144,
+      "Pickup": {
+        "Latitude": -109.95483784924886,
+        "Longitude": 7.5928374726754875
+      },
+      "DropOff": {
+        "Latitude": -147.37139283307926,
+        "Longitude": 129.18960201397684
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 48,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 48,
+      "Pickup": {
+        "Latitude": -43.81836328265532,
+        "Longitude": 75.08582401954989
+      },
+      "DropOff": {
+        "Latitude": -29.747105920518013,
+        "Longitude": 198.76087301759077
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 76,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 76,
+      "Pickup": {
+        "Latitude": -0.5960046695583384,
+        "Longitude": 22.103943882122117
+      },
+      "DropOff": {
+        "Latitude": -91.38387637151168,
+        "Longitude": -17.854534852911435
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 122,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 122,
+      "Pickup": {
+        "Latitude": -24.859576965288007,
+        "Longitude": -115.5930018919957
+      },
+      "DropOff": {
+        "Latitude": -126.00343465166415,
+        "Longitude": -30.77771251781047
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 37,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 37,
+      "Pickup": {
+        "Latitude": 96.42576650357529,
+        "Longitude": -8.706215555832301
+      },
+      "DropOff": {
+        "Latitude": 182.29895786648916,
+        "Longitude": -66.70317702613215
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 105,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 105,
+      "Pickup": {
+        "Latitude": -157.30423927859826,
+        "Longitude": 165.5018123278543
+      },
+      "DropOff": {
+        "Latitude": -242.29819624027388,
+        "Longitude": 120.98997869577641
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 150,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 150,
+      "Pickup": {
+        "Latitude": -83.26810974117696,
+        "Longitude": 13.403434659353827
+      },
+      "DropOff": {
+        "Latitude": -41.88623143681111,
+        "Longitude": -107.4065452946468
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 93,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 93,
+      "Pickup": {
+        "Latitude": 21.411856924213854,
+        "Longitude": -15.995822909793658
+      },
+      "DropOff": {
+        "Latitude": -82.20610514602606,
+        "Longitude": -37.058873542891575
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 175,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 175,
+      "Pickup": {
+        "Latitude": 53.80209666875757,
+        "Longitude": 190.6368269656534
+      },
+      "DropOff": {
+        "Latitude": 34.1579151853898,
+        "Longitude": 148.89778609972714
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 184,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 184,
+      "Pickup": {
+        "Latitude": 145.61508499920322,
+        "Longitude": 73.29390752905189
+      },
+      "DropOff": {
+        "Latitude": 111.45633296742345,
+        "Longitude": 67.58178582476577
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 140,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 140,
+      "Pickup": {
+        "Latitude": 27.645600563930834,
+        "Longitude": -25.34014543596229
+      },
+      "DropOff": {
+        "Latitude": 158.01412081372987,
+        "Longitude": 19.69318075995656
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 165,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 165,
+      "Pickup": {
+        "Latitude": -146.00857587448388,
+        "Longitude": -26.079327004698502
+      },
+      "DropOff": {
+        "Latitude": -280.35693899331966,
+        "Longitude": -71.09447958190162
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 96,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 96,
+      "Pickup": {
+        "Latitude": 4.562594124538613,
+        "Longitude": 45.68459429817587
+      },
+      "DropOff": {
+        "Latitude": 16.03609446011792,
+        "Longitude": -1.0528621286709239
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 62,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 62,
+      "Pickup": {
+        "Latitude": -95.94416499754773,
+        "Longitude": 62.45195200816728
+      },
+      "DropOff": {
+        "Latitude": -75.53914173045456,
+        "Longitude": -65.91807888383057
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 181,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 181,
+      "Pickup": {
+        "Latitude": -59.2614738720634,
+        "Longitude": -93.03410129931396
+      },
+      "DropOff": {
+        "Latitude": -134.23178662104078,
+        "Longitude": -4.2575346149913
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 49,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 49,
+      "Pickup": {
+        "Latitude": 31.257517457717924,
+        "Longitude": -54.2091441883714
+      },
+      "DropOff": {
+        "Latitude": 5.9943606927046424,
+        "Longitude": -72.80420112511587
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 127,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 127,
+      "Pickup": {
+        "Latitude": -31.91251900267039,
+        "Longitude": -23.41375264290325
+      },
+      "DropOff": {
+        "Latitude": 105.16136868552684,
+        "Longitude": -22.806738081260104
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 15,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 15,
+      "Pickup": {
+        "Latitude": 68.78783302263435,
+        "Longitude": 127.11752978564661
+      },
+      "DropOff": {
+        "Latitude": 93.32483490824492,
+        "Longitude": 160.0383144019139
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 193,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 193,
+      "Pickup": {
+        "Latitude": 38.449703380353355,
+        "Longitude": -26.503084842931727
+      },
+      "DropOff": {
+        "Latitude": 97.6980509794094,
+        "Longitude": -40.788044008911534
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 24,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 24,
+      "Pickup": {
+        "Latitude": -8.675963607480284,
+        "Longitude": 8.151177480809197
+      },
+      "DropOff": {
+        "Latitude": -57.83382035220122,
+        "Longitude": 99.55558803630026
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 157,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 157,
+      "Pickup": {
+        "Latitude": 19.097030071976377,
+        "Longitude": -81.2247480957484
+      },
+      "DropOff": {
+        "Latitude": 82.54156467859531,
+        "Longitude": 28.392819374607072
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 121,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 121,
+      "Pickup": {
+        "Latitude": 96.98857550640415,
+        "Longitude": 85.4960151249856
+      },
+      "DropOff": {
+        "Latitude": 19.84191670148404,
+        "Longitude": 106.69737171661075
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 192,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 192,
+      "Pickup": {
+        "Latitude": -142.17241745517097,
+        "Longitude": -106.33543216003328
+      },
+      "DropOff": {
+        "Latitude": -228.13595682002978,
+        "Longitude": -41.14019242243529
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 162,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 162,
+      "Pickup": {
+        "Latitude": 92.96924590181276,
+        "Longitude": -61.11259571654858
+      },
+      "DropOff": {
+        "Latitude": -39.42458964423015,
+        "Longitude": -96.35715933799972
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 20,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 20,
+      "Pickup": {
+        "Latitude": 15.103012463808582,
+        "Longitude": -45.888856464110056
+      },
+      "DropOff": {
+        "Latitude": -26.647968373193443,
+        "Longitude": -92.83678034841543
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 196,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 196,
+      "Pickup": {
+        "Latitude": -104.59304749709925,
+        "Longitude": -192.79488315216418
+      },
+      "DropOff": {
+        "Latitude": -9.774547326194451,
+        "Longitude": -128.29868751767583
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 130,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 130,
+      "Pickup": {
+        "Latitude": 152.18888073577224,
+        "Longitude": 108.6165558164276
+      },
+      "DropOff": {
+        "Latitude": 115.16782494398362,
+        "Longitude": 101.00367086501015
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 183,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 183,
+      "Pickup": {
+        "Latitude": -22.014699935972747,
+        "Longitude": 195.0784562326049
+      },
+      "DropOff": {
+        "Latitude": -4.479098547484181,
+        "Longitude": 270.4722342064157
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 102,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 102,
+      "Pickup": {
+        "Latitude": 147.29628567181808,
+        "Longitude": -89.80388613229455
+      },
+      "DropOff": {
+        "Latitude": -2.558652365157343,
+        "Longitude": -90.29842859905183
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 129,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 129,
+      "Pickup": {
+        "Latitude": 82.39867869381531,
+        "Longitude": -128.88119702436757
+      },
+      "DropOff": {
+        "Latitude": -56.55885443300592,
+        "Longitude": -108.8030797549114
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 66,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 66,
+      "Pickup": {
+        "Latitude": -74.35177055676338,
+        "Longitude": -156.47017999560202
+      },
+      "DropOff": {
+        "Latitude": -35.65533821764396,
+        "Longitude": -13.928749968757472
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 86,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 86,
+      "Pickup": {
+        "Latitude": 167.02579703397618,
+        "Longitude": 78.30703017642588
+      },
+      "DropOff": {
+        "Latitude": 193.23316588422355,
+        "Longitude": 174.89685535327766
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 85,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 85,
+      "Pickup": {
+        "Latitude": -18.6634594006555,
+        "Longitude": -99.39511630330534
+      },
+      "DropOff": {
+        "Latitude": 18.30136602265299,
+        "Longitude": -212.87143269704427
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 101,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 101,
+      "Pickup": {
+        "Latitude": 21.210727595108253,
+        "Longitude": 136.1319331652877
+      },
+      "DropOff": {
+        "Latitude": -3.750929337810046,
+        "Longitude": 183.5697875589311
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 185,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 185,
+      "Pickup": {
+        "Latitude": -216.2559911409995,
+        "Longitude": -56.31682813338591
+      },
+      "DropOff": {
+        "Latitude": -132.67573495724378,
+        "Longitude": -17.08554813467932
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 167,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 167,
+      "Pickup": {
+        "Latitude": 8.406239343148659,
+        "Longitude": 206.37428960985636
+      },
+      "DropOff": {
+        "Latitude": 19.198732468492775,
+        "Longitude": 89.83130284086545
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 61,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 61,
+      "Pickup": {
+        "Latitude": 210.78415633952764,
+        "Longitude": -57.30415859168416
+      },
+      "DropOff": {
+        "Latitude": 159.22468503259415,
+        "Longitude": 22.470490561295946
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 75,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 75,
+      "Pickup": {
+        "Latitude": -216.85454831383868,
+        "Longitude": 201.2024835758317
+      },
+      "DropOff": {
+        "Latitude": -194.4566962417722,
+        "Longitude": 116.34010835744995
+      },
+      "BPickedUp": false
+    }
+  },
+  {
+    "LoadID": 106,
+    "RouteID": 0,
+    "RouteLeg": 0,
+    "PickUp": {
+      "LoadNumber": 106,
+      "Pickup": {
+        "Latitude": 43.93848770621683,
+        "Longitude": -210.2665089242911
+      },
+      "DropOff": {
+        "Latitude": 127.56809367877162,
+        "Longitude": -100.07554450663206
+      },
+      "BPickedUp": false
+    }
+  }
+]

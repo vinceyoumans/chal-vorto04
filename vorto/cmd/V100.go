@@ -44,12 +44,11 @@ Violate 12 hour rule.`,
 			return
 		}
 
-		if SaveOutput == true {
+		if SaveOutput {
 			util.MakeOutputDirs()
 		}
 
 		ProblemPathFile := filepath.Join(ProblemPath, ProblemFile)
-		slog.Println("--- ProblemPathFile : ", ProblemPathFile)
 
 		v100.V100Start(ProblemPathFile, SaveOutput)
 

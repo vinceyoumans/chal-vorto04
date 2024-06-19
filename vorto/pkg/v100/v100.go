@@ -66,7 +66,7 @@ func V100Start(ProblemPathFile string, bSaveOutput bool) {
 		util.PPStruct("../output/v500/p500", "PP500_ByPickUp.json", PM500)
 	}
 
-	PM900 := StX900(PM400)
+	PM900 := StXX900(P200B_ByPickUp)
 
 	if bSaveOutput {
 		util.PPStruct("../output/v900/p900", "PP900_random.json", PM900)
